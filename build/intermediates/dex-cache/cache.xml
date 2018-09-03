@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\tempworkspace\FaceInter_landscape\app\build\intermediates\exploded-aar\FaceInter_landscape\faceplatform-ui\unspecified\jars\libs\ast.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="a07888ea628da6f851b14f22bdefaccc33203451">
+        <dex dex="D:\android\tempworkspace\FaceInter_landscape\app\build\intermediates\pre-dexed\debug\ast_bfe6f92f7c9f487dc8aca45d4ab7fafdc0151fb9.jar" />
+    </item>
+    <item
+        jar="D:\android\tempworkspace\FaceInter_landscape\app\build\intermediates\exploded-aar\FaceInter_landscape\faceplatform-ui\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="ac01921fff1d05926d443a3b2285f4cb2c6d24a5">
+        <dex dex="D:\android\tempworkspace\FaceInter_landscape\app\build\intermediates\pre-dexed\debug\FaceInter_landscape-faceplatform-ui-unspecified_87b929ec99d29d670eebc84220b5f0589c86d4d3.jar" />
+    </item>
+
+</items>

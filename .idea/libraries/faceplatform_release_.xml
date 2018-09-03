@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="faceplatform-release-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/faceplatform-release/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/faceplatform-release/jars/libs/idl-license.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/faceplatform-release/jars/libs/facesdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/faceplatform-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
